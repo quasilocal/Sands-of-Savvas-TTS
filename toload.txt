@@ -1,1 +1,1 @@
-Vitalist.json, Dustwatcher.json, Catalyst.json, Sandstinger.json
+Vitalist.json, Dustwatcher.json, Catalyst.json, Sandstinger.json, SoS Assets.json
