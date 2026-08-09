@@ -1,1 +1,1 @@
-Vitalist.json, Dustwatcher.json, Catalyst.json, Sandstinger.json, SoS Assets.json, Rekindled.json, Briskwind.json, Skyreader.json, Ironsights.json, Alchemancer.json, Powdercoat.json
+Vitalist.json, Dustwatcher.json, Catalyst.json, Sandstinger.json, SoS Assets.json, Rekindled.json, Briskwind.json, Skyreader.json, Ironsights.json, Alchemancer.json, Powdercoat.json, Bloom_Matron.json
